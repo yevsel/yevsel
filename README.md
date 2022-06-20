@@ -8,7 +8,7 @@ I have 4 years of programming experience, primarily Python and Javascript. Creat
 
 *   🌍  I'm based in Ghana, Accra
 *   ✉️  You can contact me at [sel3491justice@gmail.com](mailto:sel3491justice@gmail.com)
-*   🚀  I'm currently working on [An expense tracker to help people manage their salaries and expenses.](http://expensetracker360.netlify.app)
+*   🚀  I'm currently working on [An expense tracker to help people manage their salaries and expenses.](http://etracker2.netlify.app)
 *   🧠  I'm learning Dart programming language and Flutter.
 <a href="https://www.twitter.com/yevsel" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/yevsel?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
@@ -36,7 +36,7 @@ I have 4 years of programming experience, primarily Python and Javascript. Creat
 
   ### Socials
                   
- <p align="left"> <a href="https://www.github.com/yevsel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yev.sel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yevoojusticeselasi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yevsel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+ <p align="left"> <a href="https://www.github.com/yevsel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yev.sel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/justice-selasi-yevoo-066322216/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yevsel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
