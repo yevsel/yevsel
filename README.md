@@ -4,11 +4,11 @@ Hi 👋 My name is Yevoo Justice Selasi
 Full-Stack Web & Mobile App Developer and Aspiring Data Scientist
 ----------------------------------------------------
 
-I have 4 years of programming experience, primarily Python and Javascript. Created a number of cool React apps and REST-ful API's with Javascript. I'm also a Math Major student at the University of Ghana. Currently learning Dart programming language so I can create efficient mobile apps with Flutter to increase my productivity and value as a developer.
+I have 4 years of programming experience, primarily Python, Javascript and Java. I'm also very proficient with technologies like Android Studio and Figma. Created a number of cool React apps and REST-ful API's with Javascript. I have also created cool cross platform mobile apps with React Native and Android Studio(Kotlin) . Currently Math & Computer Science Major student at the University of Ghana in my second year. Currently learning Dart programming language so I can create efficient mobile apps with Flutter to increase my productivity and value as a developer.
 
 *   🌍  I'm based in Ghana, Accra
 *   ✉️  You can contact me at [sel3491justice@gmail.com](mailto:sel3491justice@gmail.com)
-*   🚀  I'm currently working on a //Food Delivery application// for a client
+*   🚀  I'm currently working on a //Food Delivery application// for a client and also data research with Jupyter notebook.
 *   🧠  I'm learning Dart programming language and Flutter.
 <a href="https://www.twitter.com/yevsel" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/yevsel?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
