@@ -9,7 +9,6 @@ I have 4 years of programming experience, primarily Python, Javascript and Java.
 *   🌍  I'm based in Ghana, Accra
 *   ✉️  You can contact me at [sel3491justice@gmail.com](mailto:sel3491justice@gmail.com)
 *   🚀  I'm currently working on a //Food Delivery application// for a client and also data research with Jupyter notebook.
-*   🧠  I'm learning Dart programming language and Flutter.
 <a href="https://www.twitter.com/yevsel" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/yevsel?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
                 /></a>
