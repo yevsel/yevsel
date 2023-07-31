@@ -1,7 +1,7 @@
 Hi 👋 My name is Yevoo Justice Selasi
 =====================================
 
-Full-Stack Web & Mobile App Developer
+Software Engineer
 ----------------------------------------------------
 
 I have 4 years of programming experience, primarily Python, Javascript and Java. I'm also very proficient with technologies like Android Studio and Figma. Created a number of cool React apps and REST-ful API's with Javascript. I have also developed cool cross-platform mobile apps with React Native and Android Studio(Kotlin) . Currently a Math & Computer Science Major student at the University of Ghana in my second year.
