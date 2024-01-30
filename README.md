@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineer from Ghana, proficient in TypeScript, JavaScript, Python, and Java. Final year Mathematics with Computer Science Major at the University of Ghana.
+Talented professional with a proven track record of delivering results while working on projects in a team environment, as well as independently. Experienced with multiple programming languages and technologies, including Typescript, NextJs Java, SpringBoot, JavaScript, and React. Skilled in debugging, troubleshooting, and problem-solving, with a passion for creating efficient and user-friendly applications.
 
 
 ## 🌐 Socials:
