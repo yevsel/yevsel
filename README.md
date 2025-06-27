@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yevoo Justice Selasi</h1>
 <h4 align="center">Talented professional with a proven track record of delivering results while working on projects in a team environment, as well as independently. Experienced with multiple programming languages and technologies, including Typescript, NextJs Java, SpringBoot, JavaScript, and React. Skilled in debugging, troubleshooting, and problem-solving, with a passion for creating efficient and user-friendly applications.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yevsel" alt="yevsel" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/yevsel" target="blank"><img src="https://img.shields.io/twitter/follow/yevsel?logo=twitter&style=for-the-badge" alt="yevsel" /></a> </p>
 
 - 📫 How to reach me **sel3491justice@gmail.com**
