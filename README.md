@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/yevsel" target="blank"><img src="https://img.shields.io/twitter/follow/yevsel?logo=twitter&style=for-the-badge" alt="yevsel" /></a> </p>
 
-- 🔭 I’m currently working on [ReadyforWork University](https://readyforwork.africa)
-
 - 📫 How to reach me **sel3491justice@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,5 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yevsel&show_icons=true&locale=en" alt="yevsel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yevsel&" alt="yevsel" /></p>
 
