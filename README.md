@@ -5,7 +5,7 @@ Docker, CI/CD, and self-hosting. Thrives in both collaborative and independent e
 
 <p align="left"> <a href="https://twitter.com/yevsel" target="blank"><img src="https://img.shields.io/twitter/follow/yevsel?logo=twitter&style=for-the-badge" alt="yevsel" /></a> </p>
 
-- 📫 How to reach me **sel3491justice@gmail.com**
+- 📫 How to reach me **yevselasi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
