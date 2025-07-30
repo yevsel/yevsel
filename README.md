@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yevoo Justice Selasi</h1>
-<h4 align="center">Results-driven software developer with a strong background in building and deploying modern web and mobile apps.
+<h1 align="left">Hi 👋, I'm Yevoo Justice Selasi</h1>
+<h4 align="left">Results-driven software developer with a strong background in building and deploying modern web and mobile apps.
 Passionate about clean code, automation, and user-friendly design, with growing experience in DevOps practices like
 Docker, CI/CD, and self-hosting. Thrives in both collaborative and independent environments.</h3>
 
