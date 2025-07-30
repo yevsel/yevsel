@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yevoo Justice Selasi</h1>
-<h4 align="center">Talented professional with a proven track record of delivering results while working on projects in a team environment, as well as independently. Experienced with multiple programming languages and technologies, including Typescript, NextJs Java, SpringBoot, JavaScript, and React. Skilled in debugging, troubleshooting, and problem-solving, with a passion for creating efficient and user-friendly applications.</h3>
+<h4 align="center">Results-driven software developer with a strong background in building and deploying modern web and mobile apps.
+Passionate about clean code, automation, and user-friendly design, with growing experience in DevOps practices like
+Docker, CI/CD, and self-hosting. Thrives in both collaborative and independent environments.</h3>
 
 <p align="left"> <a href="https://twitter.com/yevsel" target="blank"><img src="https://img.shields.io/twitter/follow/yevsel?logo=twitter&style=for-the-badge" alt="yevsel" /></a> </p>
 
