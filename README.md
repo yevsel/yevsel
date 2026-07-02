@@ -10,7 +10,7 @@ Docker, CI/CD, and self-hosting. Thrives in both collaborative and independent e
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yevsel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yevsel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/yevsel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/yevsel/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yevsel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/yevsel/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yevsel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yevsel" height="30" width="40" /></a>
 </p>
 
