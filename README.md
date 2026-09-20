@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Yevoo Justice Selasi</h1>
-<h4 align="left">Results-driven software developer with a strong background in building and deploying modern web and mobile apps.
-Passionate about clean code, automation, and user-friendly design, with growing experience in DevOps practices like
-Docker, CI/CD, and self-hosting. Thrives in both collaborative and independent environments.</h3>
+<h4 align="left">Software & AI Engineer building scalable web, mobile, and agentic AI systems in production.
+Experienced in LangGraph, LangChain, and MCP-based agent orchestration, with a growing focus on AI governance,
+reliability, and automated QA. Thrives in both collaborative and independent environments.</h4>
 
-<p align="left"> <a href="https://twitter.com/yevsel" target="blank"><img src="https://img.shields.io/twitter/follow/yevsel?logo=twitter&style=for-the-badge" alt="yevsel" /></a> </p>
+<p align="left"> <a href="https://x.com/yevsel" target="blank"><img src="https://img.shields.io/twitter/follow/yevsel?logo=twitter&style=for-the-badge" alt="yevsel" /></a> </p>
 
 - 📫 How to reach me **yevselasi@gmail.com**
 
