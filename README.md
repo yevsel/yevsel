@@ -14,6 +14,4 @@
 - 📚 RAG pipelines for grounding agents in real-world data
 - 🌐 Full-stack web and mobile apps — React, Next.js, React Native, end to end
 
-`Python` `JavaScript` `TypeScript` `React` `Next.js` `FastAPI` `LangGraph` `LangChain` `RAG` `PostgreSQL` `Docker`
-
 ---
